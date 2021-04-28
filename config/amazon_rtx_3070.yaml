@@ -1,6 +1,5 @@
 ---
 refresh_interval: 2 # seconds
-max_price: 650 # dollars/euros/etc
 urls:
   - https://www.amazon.com/dp/B08L8HPKR6
   - https://www.amazon.com/dp/B08L8LG4M3
@@ -19,4 +18,36 @@ urls:
   - https://www.amazon.com/dp/B08HBJB7YD
   - https://www.amazon.com/dp/B08LF32LJ6
   - https://www.amazon.com/dp/B08LF1CWT2
+  - https://www.amazon.com/GeForce-RTX3070-DirectX-Triple-Fan-Graphics/dp/B092HWC635
+  - https://www.amazon.com/NVIDIA-GeForce-Graphics-DisplayPort-Bearings/dp/B08WC81Z5D
+  - https://www.amazon.com/MSI-GeForce-Graphics-Architecture-DisplayPort/dp/B08QJPBYC4
+  - https://www.amazon.com/2021_ZOTAC-Overclocked-ZT-A30700H-10P-TiTac-Displayport/dp/B0923QD69M
+  - https://www.amazon.com/GeForce-Gaming-Graphics-Tracing-3xDisplayPort/dp/B092W61D69
+  - https://www.amazon.com/MSI-GeForce-Graphics-DisplayPort-Ultimate/dp/B08XZQ7ZFV
+  - https://www.amazon.com/GeForce-Graphics-WINDFORCE-256-bit-AllyFlex/dp/B093CFFSMS
+  - https://www.amazon.com/Newest-GeForce-Gaming-Cooling-AllyFlex/dp/B093685F3R
+  - https://www.amazon.com/GeForce-Gaming-Graphics-Tracing-3xDisplayPort/dp/B092W6LP7T
+  - https://www.amazon.com/Overclocked-Axial-tech-Auto-Extreme-Technology-DisplayPort/dp/B08Y4G99DY
+  - https://www.amazon.com/GeForce-Graphics-Tracing-DisplayPort-Overclocked/dp/B08TFK716S
+  - https://www.amazon.com/AmazinXpress-Bundle-Axial-tech-Protective-Backplate/dp/B08YNPD996
+  - https://www.amazon.com/AmazinXpress-Bundle-DisplayPort-Axial-Tech-2-9-Slot/dp/B08YPBR5BK
+  - https://www.amazon.com/GeForce-Graphics-Technology-Backplate-DisplayPort/dp/B08ZQ3ZH5W
+  - https://www.amazon.com/GeForce-3070-Founders-Graphics-Express/dp/B092C6MHMX
+  - https://www.amazon.com/Gaming-GeForce-Graphics-DisplayPort-Bearings/dp/B08YBB228Y
+  - https://www.amazon.com/Gigabyte-Graphics-WINDFORCE-Protection-DisplayPort/dp/B08WJJNT2R
+  - https://www.amazon.com/GeForce-Graphics-IceStorm-Advanced-DisplayPort/dp/B08V1ZJP93
+  - https://www.amazon.com/AmazinXpress-Bundle-GIGABYTE-Graphics-WINDFORCE/dp/B09217LC5H
+  - https://www.amazon.com/Graphics-IceStorm-Advanced-Lighting-ZT-A30700J-10P/dp/B08P7ZKQPP
+  - https://www.amazon.com/Graphics-DisplayPort-Axial-tech-Protective-Backplate/dp/B08V88PS15
+  - https://www.amazon.com/GeForce-Graphics-WINDFORCE-256-Bit-AllyFlex/dp/B092TZCZ84
+  - https://www.amazon.com/GeForce-Ventus-Graphics-Tracing-DisplayPort/dp/B08ZDSMKTG
+  - https://www.amazon.com/NVIDIA-GeForce-Graphics-DisplayPort-Bearings/dp/B08Y9B8L43
+  - https://www.amazon.com/Gigabyte-GeForce-Graphics-WINDFORCE-AllyFlex/dp/B0923822YJ
+  - https://www.amazon.com/MSI-GeForce-RTX-3070-Architecture/dp/B092TYQ1FG
+  - https://www.amazon.com/GeForce-3070-Gaming-Graphics-AllyFlex/dp/B093DYLBZZ
+  - https://www.amazon.com/MSI-GeForce-RTX-3070-Architecture/dp/B09237QXRY
+  - https://www.amazon.com/3070-Graphics-DisplayPort-Axial-tech-Technology/dp/B092V1BW4R
+  - https://www.amazon.com/Newest-GeForce-Cooling-Backplate-AllyFlex/dp/B092V291JQ
+  - https://www.amazon.com/Graphics-Technology-Backplate-DisplayPort-AllyFlex/dp/B093CJNX6M
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-DisplayPort/dp/B08TGLK6T4
 ...

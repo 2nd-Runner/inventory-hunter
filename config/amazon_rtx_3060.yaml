@@ -1,0 +1,22 @@
+---
+refresh_interval: 2 # seconds
+urls:
+  - https://www.amazon.com/MSI-GeForce-RTX-3060-Tri-Frozr/dp/B092C7VF2C
+  - https://www.amazon.com/ASUS-Graphics-Axial-Tech-2-9-Slot-AllyFlex/dp/B092KQ6LGF
+  - https://www.amazon.com/MSI-GeForce-RTX-3060-12G/dp/B08WPJ5P4R
+  - https://www.amazon.com/ASUS-Graphics-DisplayPort-Military-Grade-Certification/dp/B08WHJPBFX
+  - https://www.amazon.com/ZOTAC-GeForce-Graphics-IceStorm-ZT-A30600H-10M/dp/B08W8DGK3X
+  - https://www.amazon.com/MSI-GeForce-RTX-3060-12G/dp/B08WPRMVWB
+  - https://www.amazon.com/EVGA-GeForce-12G-P5-3657-KR-Dual-Fan-Backplate/dp/B08WM28PVH
+  - https://www.amazon.com/ZOTAC-GeForce-Graphics-IceStorm-ZT-A30600E-10M/dp/B08ZZW34T3
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N3060GAMING/dp/B08X4V8N5Q
+  - https://www.amazon.com/PNY-GeForce-Gaming-Epic-X-Graphics/dp/B08WRQ3JR1
+  - https://www.amazon.com/ASUS-3060-DisplayPort-Military-Grade-Certification/dp/B091V2JCKH
+  - https://www.amazon.com/ZOTAC-GAMING-Graphics-IceStorm-ZT-A30600F-10P/dp/B09256CTT3
+  - https://www.amazon.com/ASUS-3060-Graphics-Axial-tech-2-7-Slot/dp/B092KQS59N
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N3060VISION/dp/B08X4VJ6SB
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N3060EAGLE/dp/B08X4W98LV
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-WINDFORCE-GV-N3060AORUS/dp/B08XQX96RN
+  - https://www.amazon.com/GeForce-RTX-3060-12G-P5-3657-KR-Backplate/dp/B092L2KTHD
+  - https://www.amazon.com/GeForce-3060-Graphics-WINDFORCE-AllyFlex/dp/B0936JYZLP
+...
