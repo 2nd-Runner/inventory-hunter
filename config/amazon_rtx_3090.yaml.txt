@@ -1,0 +1,20 @@
+---
+urls:
+  - https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30900J-10P/dp/B08ZL6XD9H
+  - https://www.amazon.com/EVGA-24G-P5-3975-KR-GeForce-Cooling-Backplate/dp/B08J61SS5R
+  - https://www.amazon.com/GeForce-3090-Ventus-Graphic-Card/dp/B08Q4K4G6W
+  - https://www.amazon.com/GeForce-Graphics-Tracing-Express-DisplayPort/dp/B08T24TWTL
+  - https://www.amazon.com/MSI-GeForce-Tri-Frozr-Architecture-Graphics/dp/B08HRBW6VB
+  - https://www.amazon.com/EVGA-GeForce-Technology-Backplate-24G-P5-3987-KR/dp/B08J5F3G18
+  - https://www.amazon.com/ASUS-Graphics-DisplayPort-Axial-Tech-2-9-Slot/dp/B08J6GMWCQ
+  - https://www.amazon.com/NVIDIA-RTX-3090-Founders-Graphics/dp/B08HR6ZBYJ
+  - https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30900D-10P/dp/B08HJQ182D
+  - https://www.amazon.com/ASUS-GeForce-Graphics-DisplayPort-Bearings/dp/B08HJGNJ81
+  - https://www.amazon.com/PNY-GeForce-3090-24GB-XLR8/dp/B08HBVX53D
+  - https://www.amazon.com/MSI-GeForce-RTX-3090-VENTUS/dp/B08HR9D2JS
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-GV-N3090AORUS-X-24GD/dp/B08KTWVHQP
+  - https://www.amazon.com/Cartoon-Octopus-Anti-Skid-Bedroom-Kitchen/dp/B083GS45CR
+  - https://www.amazon.com/ASUS-Graphics-DisplayPort-Axial-tech-2-9-Slot/dp/B08R133PYZ
+  - https://www.amazon.com/GIGABYTE-GeForce-Graphics-GV-N3090AORUS-M-24GD/dp/B08KTYZXR9
+  - https://www.amazon.com/GIGABYTE-GeForce-WATERFORCE-Graphics-GV-N3090AORUSX/dp/B08R5D3374
+  - https://www.amazon.com/GIGABYTE-WATERFORCE-Thunderbolt-GV-N3090IXEB-24GD-External/dp/B08R594ZX1
