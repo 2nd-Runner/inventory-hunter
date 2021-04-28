@@ -1,0 +1,6 @@
+---
+refresh_interval: 2 # seconds
+max_price: 1000 # dollars/euros/etc
+urls:
+  - https://www.amazon.com/ASUS-Graphics-Axial-Tech-2-9-Slot-AllyFlex/dp/B092KQ6LGF
+...

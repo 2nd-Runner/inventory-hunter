@@ -1,4 +1,6 @@
 ---
+refresh_interval: 2 # seconds
+max_price: 1500 # dollars/euros/etc
 urls:
   - https://www.amazon.com/ASUS-Graphics-DisplayPort-Military-Grade-Certification/dp/B08HH5WF97
   - https://www.amazon.com/GeForce-Gaming-Graphics-Technology-Backplate/dp/B08NWBG14N

@@ -1,4 +1,6 @@
 ---
+refresh_interval: 2 # seconds
+max_price: 2500 # dollars/euros/etc
 urls:
   - https://www.amazon.com/ZOTAC-Graphics-IceStorm-Advanced-ZT-A30900J-10P/dp/B08ZL6XD9H
   - https://www.amazon.com/EVGA-24G-P5-3975-KR-GeForce-Cooling-Backplate/dp/B08J61SS5R
